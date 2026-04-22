@@ -51,4 +51,4 @@ Using Pygame for rendering graphics and handling user input
 
 Debugging and structuring a larger Python project
 
-
+Developed by Manav Parikh
